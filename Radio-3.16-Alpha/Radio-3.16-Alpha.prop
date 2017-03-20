@@ -1,0 +1,9 @@
+{
+  "modules": { 
+    "Radio-3.16-Alpha": {
+      "description": "choix de l'ouverture de votre Radio",
+      "version": "3.16"
+	  "Auteur": "Avatar Rousseau (Dark Best)"
+    }
+  }
+}
