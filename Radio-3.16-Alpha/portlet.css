@@ -1,0 +1,10 @@
+.plugin-gridster.Radio-3.16-Alpha .front {
+  background: #55b5e6 url('images/Radio-3.16-Alpha.jpg') center 34px;
+  background-size:   150px 80px;
+  background-repeat: no-repeat;
+}
+.plugin-gridster.Radio-3.16-Alpha.back {
+  background: #070000 url('images/Radio-3.16-Alpha2.jpg') center 34px;
+  background-size:   150px 75px;
+  background-repeat: no-repeat;
+}
