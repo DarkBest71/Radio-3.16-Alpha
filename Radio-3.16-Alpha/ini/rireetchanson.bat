@@ -1,1 +1,0 @@
-start /max "\Program Files (x86)\Google\Chrome\Application\chrome.exe" http://play.rireetchansons.fr/rire/rire-chansons.html
